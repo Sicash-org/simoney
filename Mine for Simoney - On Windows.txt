@@ -11,7 +11,7 @@ DO NOT INSTALL THIS SOFTWARE IF IT MAY EXPOSE YOU OR OTHERS TO RISK YOU OR THEY 
 
 IN RELATION TO THIS SOFTWARE, SEEK PROFESIONAL ADVICE AT YOUR OWN EXPESE BEFORE TAKING RISKS.
 
-Mine for blocks with your Windows wallet and the following instructions.
+To Mine for blocks with your Windows wallet, see the following instructions.
 
 Click here to download the file simoney-qt-windows.zip.
 
